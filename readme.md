@@ -1,0 +1,1 @@
+This is a simple implementation of the JavaScript Sets data structure according to the object-oriented paradigm (JavaScript ES6)
